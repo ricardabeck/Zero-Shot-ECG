@@ -1,0 +1,243 @@
+nohup: ignoring input
+2025-05-12 18:09:39 - INFO - Setup laplace_truedp for ensemble validation ...
+2025-05-12 18:09:39 - INFO - Skipping existing 1e-05 ...
+2025-05-12 18:09:39 - INFO - Skipping existing 0.0001 ...
+2025-05-12 18:09:39 - INFO - Skipping existing 0.001 ...
+2025-05-12 18:09:39 - INFO - Epsilon 0.011 was not prepared yet.
+2025-05-12 18:09:39 - INFO - Skipping existing 0.021 ...
+2025-05-12 18:09:39 - INFO - Skipping existing 0.031 ...
+2025-05-12 18:09:39 - INFO - Skipping existing 0.041 ...
+2025-05-12 18:09:39 - INFO - Skipping existing 0.051 ...
+2025-05-12 18:09:39 - INFO - Skipping existing 0.061 ...
+2025-05-12 18:09:39 - INFO - Skipping existing 0.071 ...
+2025-05-12 18:09:39 - INFO - Skipping existing 0.081 ...
+2025-05-12 18:09:39 - INFO - Skipping existing 0.091 ...
+2025-05-12 18:09:39 - INFO - Skipping existing 0.01 ...
+2025-05-12 18:10:54 - INFO - Starting with epsilon 0.11 ...
+2025-05-12 18:11:02 - INFO - Repeat 1/10 for epsilon 0.11
+2025-05-12 18:11:07 - INFO - Repeat 2/10 for epsilon 0.11
+2025-05-12 18:11:11 - INFO - Repeat 3/10 for epsilon 0.11
+2025-05-12 18:11:16 - INFO - Repeat 4/10 for epsilon 0.11
+2025-05-12 18:11:20 - INFO - Repeat 5/10 for epsilon 0.11
+2025-05-12 18:11:25 - INFO - Repeat 6/10 for epsilon 0.11
+2025-05-12 18:11:29 - INFO - Repeat 7/10 for epsilon 0.11
+2025-05-12 18:11:34 - INFO - Repeat 8/10 for epsilon 0.11
+2025-05-12 18:11:38 - INFO - Repeat 9/10 for epsilon 0.11
+2025-05-12 18:11:43 - INFO - Repeat 10/10 for epsilon 0.11
+2025-05-12 18:11:48 - INFO - All repeats for epsilon 0.11 done. Saving now ...
+2025-05-12 18:11:57 - INFO - Starting with epsilon 0.21 ...
+2025-05-12 18:11:58 - INFO - Repeat 1/10 for epsilon 0.21
+2025-05-12 18:12:03 - INFO - Repeat 2/10 for epsilon 0.21
+2025-05-12 18:12:08 - INFO - Repeat 3/10 for epsilon 0.21
+2025-05-12 18:12:13 - INFO - Repeat 4/10 for epsilon 0.21
+2025-05-12 18:12:17 - INFO - Repeat 5/10 for epsilon 0.21
+2025-05-12 18:12:22 - INFO - Repeat 6/10 for epsilon 0.21
+2025-05-12 18:12:26 - INFO - Repeat 7/10 for epsilon 0.21
+2025-05-12 18:12:31 - INFO - Repeat 8/10 for epsilon 0.21
+2025-05-12 18:12:36 - INFO - Repeat 9/10 for epsilon 0.21
+2025-05-12 18:12:40 - INFO - Repeat 10/10 for epsilon 0.21
+2025-05-12 18:12:45 - INFO - All repeats for epsilon 0.21 done. Saving now ...
+2025-05-12 18:12:58 - INFO - Starting with epsilon 0.31 ...
+2025-05-12 18:12:59 - INFO - Repeat 1/10 for epsilon 0.31
+2025-05-12 18:13:04 - INFO - Repeat 2/10 for epsilon 0.31
+2025-05-12 18:13:08 - INFO - Repeat 3/10 for epsilon 0.31
+2025-05-12 18:13:13 - INFO - Repeat 4/10 for epsilon 0.31
+2025-05-12 18:13:17 - INFO - Repeat 5/10 for epsilon 0.31
+2025-05-12 18:13:22 - INFO - Repeat 6/10 for epsilon 0.31
+2025-05-12 18:13:27 - INFO - Repeat 7/10 for epsilon 0.31
+2025-05-12 18:13:31 - INFO - Repeat 8/10 for epsilon 0.31
+2025-05-12 18:13:36 - INFO - Repeat 9/10 for epsilon 0.31
+2025-05-12 18:13:40 - INFO - Repeat 10/10 for epsilon 0.31
+2025-05-12 18:13:45 - INFO - All repeats for epsilon 0.31 done. Saving now ...
+2025-05-12 18:13:57 - INFO - Starting with epsilon 0.41 ...
+2025-05-12 18:13:58 - INFO - Repeat 1/10 for epsilon 0.41
+2025-05-12 18:14:03 - INFO - Repeat 2/10 for epsilon 0.41
+2025-05-12 18:14:07 - INFO - Repeat 3/10 for epsilon 0.41
+2025-05-12 18:14:12 - INFO - Repeat 4/10 for epsilon 0.41
+2025-05-12 18:14:16 - INFO - Repeat 5/10 for epsilon 0.41
+2025-05-12 18:14:21 - INFO - Repeat 6/10 for epsilon 0.41
+2025-05-12 18:14:26 - INFO - Repeat 7/10 for epsilon 0.41
+2025-05-12 18:14:30 - INFO - Repeat 8/10 for epsilon 0.41
+2025-05-12 18:14:35 - INFO - Repeat 9/10 for epsilon 0.41
+2025-05-12 18:14:40 - INFO - Repeat 10/10 for epsilon 0.41
+2025-05-12 18:14:44 - INFO - All repeats for epsilon 0.41 done. Saving now ...
+2025-05-12 18:14:56 - INFO - Starting with epsilon 0.51 ...
+2025-05-12 18:14:58 - INFO - Repeat 1/10 for epsilon 0.51
+2025-05-12 18:15:02 - INFO - Repeat 2/10 for epsilon 0.51
+2025-05-12 18:15:07 - INFO - Repeat 3/10 for epsilon 0.51
+2025-05-12 18:15:12 - INFO - Repeat 4/10 for epsilon 0.51
+2025-05-12 18:15:16 - INFO - Repeat 5/10 for epsilon 0.51
+2025-05-12 18:15:21 - INFO - Repeat 6/10 for epsilon 0.51
+2025-05-12 18:15:25 - INFO - Repeat 7/10 for epsilon 0.51
+2025-05-12 18:15:30 - INFO - Repeat 8/10 for epsilon 0.51
+2025-05-12 18:15:35 - INFO - Repeat 9/10 for epsilon 0.51
+2025-05-12 18:15:39 - INFO - Repeat 10/10 for epsilon 0.51
+2025-05-12 18:15:44 - INFO - All repeats for epsilon 0.51 done. Saving now ...
+2025-05-12 18:15:55 - INFO - Starting with epsilon 0.61 ...
+2025-05-12 18:15:57 - INFO - Repeat 1/10 for epsilon 0.61
+2025-05-12 18:16:01 - INFO - Repeat 2/10 for epsilon 0.61
+2025-05-12 18:16:06 - INFO - Repeat 3/10 for epsilon 0.61
+2025-05-12 18:16:10 - INFO - Repeat 4/10 for epsilon 0.61
+2025-05-12 18:16:15 - INFO - Repeat 5/10 for epsilon 0.61
+2025-05-12 18:16:20 - INFO - Repeat 6/10 for epsilon 0.61
+2025-05-12 18:16:24 - INFO - Repeat 7/10 for epsilon 0.61
+2025-05-12 18:16:29 - INFO - Repeat 8/10 for epsilon 0.61
+2025-05-12 18:16:33 - INFO - Repeat 9/10 for epsilon 0.61
+2025-05-12 18:16:38 - INFO - Repeat 10/10 for epsilon 0.61
+2025-05-12 18:16:43 - INFO - All repeats for epsilon 0.61 done. Saving now ...
+2025-05-12 18:16:53 - INFO - Starting with epsilon 0.71 ...
+2025-05-12 18:16:55 - INFO - Repeat 1/10 for epsilon 0.71
+2025-05-12 18:16:59 - INFO - Repeat 2/10 for epsilon 0.71
+2025-05-12 18:17:04 - INFO - Repeat 3/10 for epsilon 0.71
+2025-05-12 18:17:08 - INFO - Repeat 4/10 for epsilon 0.71
+2025-05-12 18:17:13 - INFO - Repeat 5/10 for epsilon 0.71
+2025-05-12 18:17:18 - INFO - Repeat 6/10 for epsilon 0.71
+2025-05-12 18:17:22 - INFO - Repeat 7/10 for epsilon 0.71
+2025-05-12 18:17:27 - INFO - Repeat 8/10 for epsilon 0.71
+2025-05-12 18:17:31 - INFO - Repeat 9/10 for epsilon 0.71
+2025-05-12 18:17:36 - INFO - Repeat 10/10 for epsilon 0.71
+2025-05-12 18:17:41 - INFO - All repeats for epsilon 0.71 done. Saving now ...
+2025-05-12 18:17:51 - INFO - Starting with epsilon 0.81 ...
+2025-05-12 18:17:52 - INFO - Repeat 1/10 for epsilon 0.81
+2025-05-12 18:17:57 - INFO - Repeat 2/10 for epsilon 0.81
+2025-05-12 18:18:01 - INFO - Repeat 3/10 for epsilon 0.81
+2025-05-12 18:18:06 - INFO - Repeat 4/10 for epsilon 0.81
+2025-05-12 18:18:10 - INFO - Repeat 5/10 for epsilon 0.81
+2025-05-12 18:18:15 - INFO - Repeat 6/10 for epsilon 0.81
+2025-05-12 18:18:20 - INFO - Repeat 7/10 for epsilon 0.81
+2025-05-12 18:18:24 - INFO - Repeat 8/10 for epsilon 0.81
+2025-05-12 18:18:29 - INFO - Repeat 9/10 for epsilon 0.81
+2025-05-12 18:18:34 - INFO - Repeat 10/10 for epsilon 0.81
+2025-05-12 18:18:38 - INFO - All repeats for epsilon 0.81 done. Saving now ...
+2025-05-12 18:18:48 - INFO - Starting with epsilon 0.91 ...
+2025-05-12 18:18:49 - INFO - Repeat 1/10 for epsilon 0.91
+2025-05-12 18:18:54 - INFO - Repeat 2/10 for epsilon 0.91
+2025-05-12 18:18:58 - INFO - Repeat 3/10 for epsilon 0.91
+2025-05-12 18:19:03 - INFO - Repeat 4/10 for epsilon 0.91
+2025-05-12 18:19:07 - INFO - Repeat 5/10 for epsilon 0.91
+2025-05-12 18:19:12 - INFO - Repeat 6/10 for epsilon 0.91
+2025-05-12 18:19:17 - INFO - Repeat 7/10 for epsilon 0.91
+2025-05-12 18:19:21 - INFO - Repeat 8/10 for epsilon 0.91
+2025-05-12 18:19:26 - INFO - Repeat 9/10 for epsilon 0.91
+2025-05-12 18:19:30 - INFO - Repeat 10/10 for epsilon 0.91
+2025-05-12 18:19:35 - INFO - All repeats for epsilon 0.91 done. Saving now ...
+2025-05-12 18:19:44 - INFO - Starting with epsilon 1.01 ...
+2025-05-12 18:19:45 - INFO - Repeat 1/10 for epsilon 1.01
+2025-05-12 18:19:50 - INFO - Repeat 2/10 for epsilon 1.01
+2025-05-12 18:19:55 - INFO - Repeat 3/10 for epsilon 1.01
+2025-05-12 18:19:59 - INFO - Repeat 4/10 for epsilon 1.01
+2025-05-12 18:20:04 - INFO - Repeat 5/10 for epsilon 1.01
+2025-05-12 18:20:09 - INFO - Repeat 6/10 for epsilon 1.01
+2025-05-12 18:20:13 - INFO - Repeat 7/10 for epsilon 1.01
+2025-05-12 18:20:18 - INFO - Repeat 8/10 for epsilon 1.01
+2025-05-12 18:20:22 - INFO - Repeat 9/10 for epsilon 1.01
+2025-05-12 18:20:27 - INFO - Repeat 10/10 for epsilon 1.01
+2025-05-12 18:20:32 - INFO - All repeats for epsilon 1.01 done. Saving now ...
+2025-05-12 18:20:40 - INFO - Starting with epsilon 1.11 ...
+2025-05-12 18:20:42 - INFO - Repeat 1/10 for epsilon 1.11
+2025-05-12 18:20:46 - INFO - Repeat 2/10 for epsilon 1.11
+2025-05-12 18:20:51 - INFO - Repeat 3/10 for epsilon 1.11
+2025-05-12 18:20:55 - INFO - Repeat 4/10 for epsilon 1.11
+2025-05-12 18:21:00 - INFO - Repeat 5/10 for epsilon 1.11
+2025-05-12 18:21:05 - INFO - Repeat 6/10 for epsilon 1.11
+2025-05-12 18:21:09 - INFO - Repeat 7/10 for epsilon 1.11
+2025-05-12 18:21:14 - INFO - Repeat 8/10 for epsilon 1.11
+2025-05-12 18:21:18 - INFO - Repeat 9/10 for epsilon 1.11
+2025-05-12 18:21:23 - INFO - Repeat 10/10 for epsilon 1.11
+2025-05-12 18:21:28 - INFO - All repeats for epsilon 1.11 done. Saving now ...
+2025-05-12 18:21:36 - INFO - Starting with epsilon 1.21 ...
+2025-05-12 18:21:38 - INFO - Repeat 1/10 for epsilon 1.21
+2025-05-12 18:21:43 - INFO - Repeat 2/10 for epsilon 1.21
+2025-05-12 18:21:47 - INFO - Repeat 3/10 for epsilon 1.21
+2025-05-12 18:21:52 - INFO - Repeat 4/10 for epsilon 1.21
+2025-05-12 18:21:56 - INFO - Repeat 5/10 for epsilon 1.21
+2025-05-12 18:22:01 - INFO - Repeat 6/10 for epsilon 1.21
+2025-05-12 18:22:06 - INFO - Repeat 7/10 for epsilon 1.21
+2025-05-12 18:22:10 - INFO - Repeat 8/10 for epsilon 1.21
+2025-05-12 18:22:14 - INFO - Repeat 9/10 for epsilon 1.21
+2025-05-12 18:22:19 - INFO - Repeat 10/10 for epsilon 1.21
+2025-05-12 18:22:24 - INFO - All repeats for epsilon 1.21 done. Saving now ...
+2025-05-12 18:22:31 - INFO - Starting with epsilon 1.31 ...
+2025-05-12 18:22:33 - INFO - Repeat 1/10 for epsilon 1.31
+2025-05-12 18:22:37 - INFO - Repeat 2/10 for epsilon 1.31
+2025-05-12 18:22:42 - INFO - Repeat 3/10 for epsilon 1.31
+2025-05-12 18:22:46 - INFO - Repeat 4/10 for epsilon 1.31
+2025-05-12 18:22:51 - INFO - Repeat 5/10 for epsilon 1.31
+2025-05-12 18:22:56 - INFO - Repeat 6/10 for epsilon 1.31
+2025-05-12 18:23:00 - INFO - Repeat 7/10 for epsilon 1.31
+2025-05-12 18:23:05 - INFO - Repeat 8/10 for epsilon 1.31
+2025-05-12 18:23:10 - INFO - Repeat 9/10 for epsilon 1.31
+2025-05-12 18:23:14 - INFO - Repeat 10/10 for epsilon 1.31
+2025-05-12 18:23:19 - INFO - All repeats for epsilon 1.31 done. Saving now ...
+2025-05-12 18:23:26 - INFO - Starting with epsilon 1.41 ...
+2025-05-12 18:23:27 - INFO - Repeat 1/10 for epsilon 1.41
+2025-05-12 18:23:32 - INFO - Repeat 2/10 for epsilon 1.41
+2025-05-12 18:23:37 - INFO - Repeat 3/10 for epsilon 1.41
+2025-05-12 18:23:41 - INFO - Repeat 4/10 for epsilon 1.41
+2025-05-12 18:23:46 - INFO - Repeat 5/10 for epsilon 1.41
+2025-05-12 18:23:50 - INFO - Repeat 6/10 for epsilon 1.41
+2025-05-12 18:23:55 - INFO - Repeat 7/10 for epsilon 1.41
+2025-05-12 18:24:00 - INFO - Repeat 8/10 for epsilon 1.41
+2025-05-12 18:24:04 - INFO - Repeat 9/10 for epsilon 1.41
+2025-05-12 18:24:09 - INFO - Repeat 10/10 for epsilon 1.41
+2025-05-12 18:24:13 - INFO - All repeats for epsilon 1.41 done. Saving now ...
+2025-05-12 18:24:20 - INFO - Starting with epsilon 1.51 ...
+2025-05-12 18:24:22 - INFO - Repeat 1/10 for epsilon 1.51
+2025-05-12 18:24:26 - INFO - Repeat 2/10 for epsilon 1.51
+2025-05-12 18:24:31 - INFO - Repeat 3/10 for epsilon 1.51
+2025-05-12 18:24:36 - INFO - Repeat 4/10 for epsilon 1.51
+2025-05-12 18:24:40 - INFO - Repeat 5/10 for epsilon 1.51
+2025-05-12 18:24:45 - INFO - Repeat 6/10 for epsilon 1.51
+2025-05-12 18:24:49 - INFO - Repeat 7/10 for epsilon 1.51
+2025-05-12 18:24:54 - INFO - Repeat 8/10 for epsilon 1.51
+2025-05-12 18:24:59 - INFO - Repeat 9/10 for epsilon 1.51
+2025-05-12 18:25:03 - INFO - Repeat 10/10 for epsilon 1.51
+2025-05-12 18:25:08 - INFO - All repeats for epsilon 1.51 done. Saving now ...
+2025-05-12 18:25:14 - INFO - Starting with epsilon 1.61 ...
+2025-05-12 18:25:16 - INFO - Repeat 1/10 for epsilon 1.61
+2025-05-12 18:25:20 - INFO - Repeat 2/10 for epsilon 1.61
+2025-05-12 18:25:25 - INFO - Repeat 3/10 for epsilon 1.61
+2025-05-12 18:25:29 - INFO - Repeat 4/10 for epsilon 1.61
+2025-05-12 18:25:34 - INFO - Repeat 5/10 for epsilon 1.61
+2025-05-12 18:25:39 - INFO - Repeat 6/10 for epsilon 1.61
+2025-05-12 18:25:43 - INFO - Repeat 7/10 for epsilon 1.61
+2025-05-12 18:25:48 - INFO - Repeat 8/10 for epsilon 1.61
+2025-05-12 18:25:52 - INFO - Repeat 9/10 for epsilon 1.61
+2025-05-12 18:25:57 - INFO - Repeat 10/10 for epsilon 1.61
+2025-05-12 18:26:01 - INFO - All repeats for epsilon 1.61 done. Saving now ...
+2025-05-12 18:26:08 - INFO - Starting with epsilon 1.71 ...
+2025-05-12 18:26:09 - INFO - Repeat 1/10 for epsilon 1.71
+2025-05-12 18:26:14 - INFO - Repeat 2/10 for epsilon 1.71
+2025-05-12 18:26:18 - INFO - Repeat 3/10 for epsilon 1.71
+2025-05-12 18:26:23 - INFO - Repeat 4/10 for epsilon 1.71
+2025-05-12 18:26:27 - INFO - Repeat 5/10 for epsilon 1.71
+2025-05-12 18:26:32 - INFO - Repeat 6/10 for epsilon 1.71
+2025-05-12 18:26:37 - INFO - Repeat 7/10 for epsilon 1.71
+2025-05-12 18:26:41 - INFO - Repeat 8/10 for epsilon 1.71
+2025-05-12 18:26:46 - INFO - Repeat 9/10 for epsilon 1.71
+2025-05-12 18:26:51 - INFO - Repeat 10/10 for epsilon 1.71
+2025-05-12 18:26:55 - INFO - All repeats for epsilon 1.71 done. Saving now ...
+2025-05-12 18:27:01 - INFO - Starting with epsilon 1.81 ...
+2025-05-12 18:27:02 - INFO - Repeat 1/10 for epsilon 1.81
+2025-05-12 18:27:07 - INFO - Repeat 2/10 for epsilon 1.81
+2025-05-12 18:27:11 - INFO - Repeat 3/10 for epsilon 1.81
+2025-05-12 18:27:16 - INFO - Repeat 4/10 for epsilon 1.81
+2025-05-12 18:27:20 - INFO - Repeat 5/10 for epsilon 1.81
+2025-05-12 18:27:25 - INFO - Repeat 6/10 for epsilon 1.81
+2025-05-12 18:27:29 - INFO - Repeat 7/10 for epsilon 1.81
+2025-05-12 18:27:34 - INFO - Repeat 8/10 for epsilon 1.81
+2025-05-12 18:27:39 - INFO - Repeat 9/10 for epsilon 1.81
+2025-05-12 18:27:43 - INFO - Repeat 10/10 for epsilon 1.81
+2025-05-12 18:27:48 - INFO - All repeats for epsilon 1.81 done. Saving now ...
+2025-05-12 18:27:53 - INFO - Starting with epsilon 1.91 ...
+2025-05-12 18:27:55 - INFO - Repeat 1/10 for epsilon 1.91
+2025-05-12 18:27:59 - INFO - Repeat 2/10 for epsilon 1.91
+2025-05-12 18:28:04 - INFO - Repeat 3/10 for epsilon 1.91
+2025-05-12 18:28:08 - INFO - Repeat 4/10 for epsilon 1.91
+2025-05-12 18:28:13 - INFO - Repeat 5/10 for epsilon 1.91
+2025-05-12 18:28:17 - INFO - Repeat 6/10 for epsilon 1.91
+2025-05-12 18:28:22 - INFO - Repeat 7/10 for epsilon 1.91
+2025-05-12 18:28:27 - INFO - Repeat 8/10 for epsilon 1.91
+2025-05-12 18:28:31 - INFO - Repeat 9/10 for epsilon 1.91
+2025-05-12 18:28:36 - INFO - Repeat 10/10 for epsilon 1.91
+2025-05-12 18:28:40 - INFO - All repeats for epsilon 1.91 done. Saving now ...

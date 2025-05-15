@@ -1,0 +1,15 @@
+zz_archive/*
+dp_data_single/*
+dp_data_trio/*
+data_single/*
+data_trio/*
+dp_signals/*
+dp_models/*
+dp_models/train_test_data/*
+
+savefolder/*
+savefolder_dp/*
+
+notebooks/__pycache__/*
+notebooks/*.ipynb_checkpoints
+notebooks/pytorch_sklearn/*

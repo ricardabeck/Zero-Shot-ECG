@@ -414,12 +414,38 @@ class NeuralNetwork:
         }
         with open(savepath, "wb") as f:
             pickle.dump(d, f)
+    
+    @classmethod
+    def return_class(cls, net):
+        d = {
+            "module_state": net.module.state_dict(),
+            "original_module_state": net._original_state_dict,
+            "using_original": net._using_original,
+            "optimizer_state": net.optimizer.state_dict(),
+            "criterion_state": net.criterion.state_dict(),
+            "cbmanager": net.cbmanager
+        }
+        return d
 
     @classmethod
     def load_class(cls, loadpath, module=None, optimizer=None, criterion=None):
         with open(loadpath, "rb") as f:
             d = pickle.load(f)
 
+        if module is not None:
+            module.load_state_dict(d["module_state"])
+        if optimizer is not None:
+            optimizer.load_state_dict(d["optimizer_state"])
+        if criterion is not None:
+            criterion.load_state_dict(d["criterion_state"])
+        net = NeuralNetwork(module, optimizer, criterion)
+        net.cbmanager = d["cbmanager"]
+        net._using_original = d["using_original"]
+        net._original_state_dict = d["original_module_state"]
+        return net
+    
+    @classmethod
+    def load_class_from_data(cls, d, module=None, optimizer=None, criterion=None):
         if module is not None:
             module.load_state_dict(d["module_state"])
         if optimizer is not None:
